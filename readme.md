@@ -8,7 +8,7 @@ Step 2: cd laraveljwtapi (change to project directory)
 
 Step 3: composer install
 
-Step 4: create database laravelapi & update these database name & credentials in .env file in root folder 
+Step 4: create database laravelapi & update these database name & credentials in .env file in root folder (Rename .env.example to .env file) 
 
 Step 5: php artisan migrate
 
