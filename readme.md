@@ -8,9 +8,11 @@ Step 2: cd laraveljwtapi (change to project directory)
 
 Step 3: composer install
 
-Step 4: php artisan migrate
+Step 4: create database laravelapi & update these database name & credentials in .env file in root folder 
 
-Step 5: php artisan serve
+Step 5: php artisan migrate
+
+Step 6: php artisan serve
 Visit 127.0.0.1:8000 to run the project
 
 Instructions
